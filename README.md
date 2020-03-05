@@ -2,7 +2,7 @@ Here i'm planning to work on additional scripts and custom settings that add
 extra-abilities and simplify getting meetings information 
 by command line interface
 
-##bbb-extra
+## bbb-extra
 
 main actions
 - analyze
@@ -32,4 +32,15 @@ bbb-extra | gt | get time *meeting-id*
 bbb-extra | fp | find participant
 bbb-extra | fn | find meeting-name
 bbb-extra | fd | find dates date1 [date2]
+
+### examples of using
+
+`bbb-extra ars`
+calculates **raw folder** size
+
+`bbb-extra glp`
+print **last 48h published** meeting's ids 
+
+`bbb-extra fn`
+find **meeting id** by name
 
