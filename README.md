@@ -1,4 +1,5 @@
-Here are additional scripts and custom settings to simplify
- working with the server from the cli
+Here i'm planning to work on additional scripts and custom settings that add
+extra-abilities and simplify getting meetings information 
+by command line interface
  
  
