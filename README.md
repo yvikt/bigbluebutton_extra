@@ -4,11 +4,14 @@ by command line interface
 
 ## bbb-extra
 
+bash script
+
+---
 main actions
 - analyze
 - get
 - find
-
+---
 **key description table**
 
 command|key|description
@@ -36,11 +39,11 @@ bbb-extra | fd | find dates date1 [date2]
 ### examples of using
 
 `bbb-extra ars`
-calculates **raw folder** size
+**analyze** (calculates) **raw** folder **size**
 
 `bbb-extra glp`
-print **last 48h published** meeting's ids 
+**get** and print **last** 48h **published** meeting's ids 
 
 `bbb-extra fn`
-find **meeting id** by name
+**find** meeting id by **name**
 
