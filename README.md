@@ -17,24 +17,24 @@ main actions
 command|key|description
 --- | --- | ---
 **analyze**||
-bbb-extra | ads | analyze disk space
-bbb-extra | als | analyze log space
-bbb-extra | ass | analyze stream space
-bbb-extra | ars | analyze raw space
-bbb-extra | aps | analyze published space
+bbb-extra | ads | **a**nalyze **d**isk **s**pace
+bbb-extra | als | **a**nalyze **l**og **s**pace
+bbb-extra | ass | **a**nalyze **s**tream **s**pace
+bbb-extra | ars | **a**nalyze **r**aw **s**pace
+bbb-extra | aps | **a**nalyze **p**ublished **s**pace
 **get**||
-bbb-extra | gnr | get now running
-bbb-extra | gla | get last archived
-bbb-extra | gaa | get  all archived
-bbb-extra | glp | get last published
-bbb-extra | gap | get  all published
-bbb-extra | gd | get description *meeting-id*
-bbb-extra | gp | get participants *meeting-id*
-bbb-extra | gt | get time *meeting-id*
+bbb-extra | gnr | **g**et **n**ow **r**unning
+bbb-extra | gla | **g**et **l**ast **a**rchived
+bbb-extra | gaa | **g**et  **a**ll **a**rchived
+bbb-extra | glp | **g**et **l**ast **p**ublished
+bbb-extra | gap | **g**et  **a**ll **p**ublished
+bbb-extra | gd | **g**et **d**escription *meeting-id*
+bbb-extra | gp | **g**et **p**articipants *meeting-id*
+bbb-extra | gt | **g**et **t**ime *meeting-id*
 **find**||
-bbb-extra | fp | find participant
-bbb-extra | fn | find meeting-name
-bbb-extra | fd | find dates date1 [date2]
+bbb-extra | fp | **f**ind **p**articipant
+bbb-extra | fn | **f**ind meeting-**n**ame
+bbb-extra | fd | **f**ind **d**ates date1 [date2]
 
 ### examples of using
 
